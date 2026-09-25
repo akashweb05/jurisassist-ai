@@ -11,6 +11,12 @@
 > **Challenge Vertical:** *AI for Legal Assistance & Access*  
 > **Evaluation Tier:** High Impact Architecture (Code Quality, Security, Efficiency, Testing, Accessibility, Problem Statement Alignment)
 
+## 🌐 Live Demo
+
+**[🚀 Try JurisAssist AI](https://jurisassist-c9pmpo632-akashweb05.vercel.app/)**
+
+> A live deployment of JurisAssist AI is available on Vercel. No installation is required to explore the application.
+
 ---
 
 ## 📌 Executive Summary & Chosen Vertical
